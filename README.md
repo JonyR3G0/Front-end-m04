@@ -9,7 +9,7 @@
 - [🌐 Estructura del repositorio](#-estructura-del-repositorio)
 - [🥋 Lista de clases](#-lista-de-clases)
 - [🗺️ Roadmap tareas y pendientes](#️-roadmap-tareas-y-pendientes)
-- [🧭 Pseudo-code JS from project hub 4](#️-pseudo-code-JS-from-project-hub-4)
+- [🧭 Pseudo-code JS from project hub 4](#️-pseudo-code-js-from-project-hub-4)
 - [🔍 Retos y soluciones](#-retos-y-soluciones)
 
 ## 🌐 Estructura del repositorio
