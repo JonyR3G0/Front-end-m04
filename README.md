@@ -16,11 +16,11 @@
 
 - `README.md` ---> ¡Estás aquí!
 - `0x-nombre-de-la-clase` ---> Carpeta por clase.
-- `clase` ---> Practicas que hicimos durante la clase.
+- `clase` ---> Prácticas que hicimos durante la clase.
 - `proyectos` ---> Proyectos para la plataforma.
-- `lab` ---> Proacticas, experimentos y proyectos míos para reforzar u aplicar lo aprendido en clase.
+- `lab` ---> Prácticas, experimentos y proyectos míos para reforzar u aplicar lo aprendido en clase.
 - `assets` - Carpeta con los recursos necesarios para desplegar el index adecuadamente.
-- `index.html` - Un index que redirige a todos las practicas que hemos estado llevando, para hostearlo en `pages`.
+- `index.html` - Un index que redirige a todas las prácticas que hemos estado llevando, para hostearlo en `pages`.
 
 ## 🥋 Lista de clases
 
@@ -35,6 +35,6 @@
 | ---------- | ----- | ---- | ------ |
 | Clase #0   |       | -    |        |
 
-## 🧭 Pseudo-code JS from project hub 4
+## 🧭 Pseudo code JS from project hub 4
 
 ## 🔍 Retos y soluciones
