@@ -1,6 +1,6 @@
-# `03 JavaScript desde 0` ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+# `04 Lógica y algoritmos` ( ◡̀_◡́)ᕤ
 
-![Banner de programador](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+![Banner (programa lo desconocido)](https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif)
 
 > En este repositorio encontrarás una lista con los proyectos de `JavaScript` que voy a trabajar con la tutoría del 先生 (sensei) [Andrés Sánchez](https://co.linkedin.com/in/afsanchez04) durante el módulo #3 del máster en front end impartido por [Dev.F](https://devf.la)
 
@@ -25,25 +25,12 @@
 | ---------- | ---------- | :-----------------------------------------------------------------------------------: |
 | Clase #0   | 04-02-2025 | Introduccion a JS:Historia, introducción, ejemplos de codigo, re-conociendo al equipo |
 | Clase #1   | 06-02-2025 |                        Tipos de variables, informacion y datos                        |
-| Clase #2   | 11-2-2025  |                              Ciclos While, For y Arrays                               |
-| Clase #3   | 13-2-2025  |                                    Funciones en JS                                    |
-| Clase #4   | 18-2-2025  |                                     Objetos en JS                                     |
-| Clase #5   | 20-2-2025  |                  Intro al DOM en JS y repaso de los temas anteriores                  |
-| Clase #6   | 25-2-2025  |                              DOM (Generador de psswrds)                               |
-| Clase #7   | 27-2-2025  |                    Revision de temas del modulo/ayuda con proyecto                    |
 
 ## 🗺️ Roadmap tareas y pendientes
 
-| # de clase | Tarea                                                                                                                                 | Plan                                                                                                                   | Status  |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------- |
-| Clase #0   | Crear repo y subirlo: programa JS                                                                                                     | -                                                                                                                      | DONE    |
-| Clase #1   | Crear un script en JS que asigne calificacions a partir de condicionales simples                                                      |                                                                                                                        | DONE    |
-| Clase #2   | Crear un algoritmo que cuente los abjetos de un array                                                                                 |                                                                                                                        | DONE    |
-| Clase #3   | Crear 2 funciones, una que almacene libros en un array y otra que los despliege                                                       | (Hice una pequeña interface para integrarlo con el DOM)                                                                | DONE    |
-| Clase #4   | Crear un objeto llamado libro con metodos para describir el estado del mismo y unos metodos extra para manejar la lista de capitulos. |                                                                                                                        | DONE    |
-| Clase #5   | Crear una app de comentarios que incluya la fecha de envio, que se puedan eliminar comentarios e interactue con el DOM                | (Hice una interface que carga una imagen aleatora de loremPicsum al generar un id aleatorio con el metodo MATH.RANDOM) | DONE    |
-| Clase #6   | Entregar el generador de Passwords                                                                                                    | -                                                                                                                      | PENDING |
-| Clase #7   | Entregar proyecto finar (Una pagina de comentarios para libros)                                                                       | -                                                                                                                      | PENING  |
+| # de clase | Tarea                             | Plan | Status |
+| ---------- | --------------------------------- | ---- | ------ |
+| Clase #0   | Crear repo y subirlo: programa JS | -    | DONE   |
 
 ## 🔍 Retos y soluciones
 
