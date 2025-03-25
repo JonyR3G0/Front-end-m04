@@ -9,15 +9,18 @@
 - [🌐 Estructura del repositorio](#-estructura-del-repositorio)
 - [🥋 Lista de clases](#-lista-de-clases)
 - [🗺️ Roadmap tareas y pendientes](#️-roadmap-tareas-y-pendientes)
+- [🧭 Pseudo-code JS from project hub 4](#️-pseudo-code-JS-from-project-hub-4)
 - [🔍 Retos y soluciones](#-retos-y-soluciones)
 
 ## 🌐 Estructura del repositorio
 
-- `0x-nombre-de-la-clase` ---> Carpeta por clase que incluye los archivos trabajados
-- `p0x-nombre-del-proyecto` ---> Proyectos y practicas recomendadas por el sensei, puede estar alojado dentro de una carpeta de clase o en la carpeta raíz.
 - `README.md` ---> ¡Estás aquí!
-- `index.html` - Un index que redirige a todos las practicas que hemos estado llevando, para hostearlo en `pages`
+- `0x-nombre-de-la-clase` ---> Carpeta por clase.
+- `clase` ---> Practicas que hicimos durante la clase.
+- `proyectos` ---> Proyectos para la plataforma.
+- `lab` ---> Proacticas, experimentos y proyectos míos para reforzar u aplicar lo aprendido en clase.
 - `assets` - Carpeta con los recursos necesarios para desplegar el index adecuadamente.
+- `index.html` - Un index que redirige a todos las practicas que hemos estado llevando, para hostearlo en `pages`.
 
 ## 🥋 Lista de clases
 
@@ -31,5 +34,7 @@
 | # de clase | Tarea | Plan | Status |
 | ---------- | ----- | ---- | ------ |
 | Clase #0   |       | -    |        |
+
+## 🧭 Pseudo-code JS from project hub 4
 
 ## 🔍 Retos y soluciones
