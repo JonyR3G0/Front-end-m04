@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Clase E M03"
+		},
+		{
+			"path": "../../front-end-m2-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front-end-m04"
+	}
+}

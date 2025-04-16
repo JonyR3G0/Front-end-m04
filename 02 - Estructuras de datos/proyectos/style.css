@@ -1,0 +1,187 @@
+:root {
+  --color-dark: #000000;
+  --color-accent: #56e39f;
+  --color-light: #fcf7ff;
+}
+
+* {
+  font-size: 20px;
+  padding: 2rem;
+}
+
+body {
+  background-color: var(--color-light);
+  color: var(--color-dark);
+    font-family:monospace;
+}
+
+header {
+  padding: 0 0 0.5rem 0;
+  border-bottom: var(--color-dark) 1px solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+h1 {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Boldonse", "Courier New", Courier, monospace;
+}
+
+.subtitle{
+  font-style: italic;
+  font-weight: lighter;
+  font-size: smaller;
+  opacity: 0.1;
+}
+
+.title__highlight {
+  padding: 0%;
+  animation: title__highlight__key 2s step-start infinite;
+}
+
+.products {
+  margin-top: 1rem;
+  padding: 0%;
+  display: flex;
+}
+
+.products__container {
+  flex: 3;
+  border: 0.5rem solid var(--color-accent);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  border-radius: 1rem;
+  margin-right: 1rem;
+  /* background-color: var(--color-dark); */
+}
+
+.products__card {
+  margin: 0;
+  margin-bottom: 2rem;
+  padding: 0.2rem;
+  /* border: 0.2rem solid var(--color-dark); */
+  border-radius: 1rem;
+  width: 200px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0.75rem 0.75rem var(--color-dark);
+  transition: all 0.7s ease-in-out;
+  overflow-y: scroll;
+}
+
+.products__card:hover {
+  background-color: rgb(235, 243, 241);
+  box-shadow: 0.75rem 0.75rem rgb(61, 61, 61);
+}
+
+.cart{
+  transition: all 0.2s ease-in-out;
+}
+
+.cart__card{
+  background-color: rgb(235, 243, 241);
+  transition: all 0.2s ease-in-out;
+  padding: .5rem;
+  margin: 1rem;
+}
+
+.card__icon {
+  font-size: 3rem;
+  font-family: "Boldonse", "Courier New", Courier, monospace;
+  color: var(--color-light);
+  background-color: var(--color-dark);
+  text-align: center;
+  border-radius: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.card__title {
+  font-family: "Boldonse", "Courier New", Courier, monospace;
+  margin: 0;
+  padding: 0;
+}
+
+.card__description {
+  margin: 0;
+  padding: .2rem;
+  font-size: 0.7rem;
+}
+
+.card__button {
+  margin: 0;
+  padding: 1rem;
+  background-color: transparent;
+  color: var(--color-dark);
+  font-family: "Boldonse", "Courier New", Courier, monospace;
+  font-size: 0.6rem;
+  border: 0.5rem solid var(--color-dark);
+  border-radius: 1rem;
+  transition: all 0.1s ease-in-out;
+}
+
+.card__button:hover{
+  cursor: pointer;
+}
+
+.card__button:active {
+  scale: .95;
+  background-color: var(--color-accent);
+  color: var(--color-light);
+  border-color: var(--color-accent);
+}
+
+.card__button--removeCart {
+  margin: 0;
+  padding: .2rem;
+  color: var(--color-light);
+  background-color: var(--color-dark);
+  border-radius: 1rem;
+  transition: all 0.1s ease-in-out;
+}
+
+.card__button--removeCart:active {
+  scale: 1.1;
+  background-color: red;
+  border-color: red;
+}
+
+.card__price {
+  margin: 0;
+  padding: .2rem;
+  font-weight: bold;
+  color: var(--color-accent);
+}
+
+.not--padding-margin {
+  margin: 0;
+  padding: 0%;
+}
+
+.cart {
+  border: 0.5rem solid var(--color-dark);
+  flex: 1;
+  /* background-color: var(--color-accent); */
+}
+
+footer {
+  padding: 1rem 0 1rem 0;
+}
+
+@keyframes title__highlight__key {
+  0% {
+    color: var(--color-dark);
+  }
+  50% {
+    color: var(--color-accent);
+  }
+  100% {
+    color: var(--color-dark);
+  }
+}

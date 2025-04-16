@@ -2,7 +2,7 @@
 
 //Creo un array vacio
 
-const listaDeCompras = [];
+let listaDeCompras = ['Casa', 'Pepino', 'dinosaurio'];
 
 //implementa una funcion que agruegue un nuevo producto al final de la lista
 
@@ -25,3 +25,8 @@ const mostrarLista = () => {
     console.log(item);
   });
 };
+
+mostrarLista()
+eliminarProducto('dinosaurio')
+mostrarLista()
+
