@@ -37,10 +37,10 @@
 ## 🗺️ Roadmap tareas y pendientes
 
 | # de clase | Tarea                                                                                                                  | Plan                                                          | Status |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ | --- |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
 | #0         | Actualizar una app a los estandares de ECMAScript                                                                      |                                                               | 1      |
 | #1         | Crear una app de tienda que maneje listas de compra                                                                    | Tienda tematica con manejo de elementos del DOM               | 1      |
-| #2         | Crear una app de tienda que haga uso de multiples métodos para arrays                                                  | Actualización de la tienda tematica con los nuevos requisitos |        | 0   |
+| #2         | Crear una app de tienda que haga uso de multiples métodos para arrays                                                  | Actualización de la tienda tematica con los nuevos requisitos | 0      |
 | #3         | Crear una app que use el algoritmo de los dos punteros para encontrar elementos de manera eficiente dentro de un array |                                                               | 0      |
 | #4         | Crear una app que encuentre la palabra más larga dentro de un array usando el algoritmo "Sliding window"               |                                                               | 0      |
 | #5         | Crear una app que use una funcion recursiva para encontrar un elemento dentro de un array                              |                                                               | 0      |
