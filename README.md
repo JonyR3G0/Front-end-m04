@@ -9,7 +9,6 @@
 - [🌐 Estructura del repositorio](#-estructura-del-repositorio)
 - [🥋 Lista de clases](#-lista-de-clases)
 - [🗺️ Roadmap tareas y pendientes](#️-roadmap-tareas-y-pendientes)
-- [🧭 Pseudo-code JS from project hub 4](#️-pseudo-code-js-from-project-hub-4)
 - [🔍 Retos y soluciones](#-retos-y-soluciones)
 
 ## 🌐 Estructura del repositorio
@@ -26,7 +25,7 @@
 
 | # de clase | Fecha      |      Tema      |
 | ---------- | ---------- | :------------: |
-| Clase #0   | 04-02-2025 | Introduccion a |
+| Clase #0   | 04-02-2025 | Introduccion a ECMAScript|
 | Clase #1   | 06-02-2025 |                |
 
 ## 🗺️ Roadmap tareas y pendientes
@@ -34,7 +33,5 @@
 | # de clase | Tarea | Plan | Status |
 | ---------- | ----- | ---- | ------ |
 | Clase #0   |       | -    |        |
-
-## 🧭 Pseudo code JS from project hub 4
 
 ## 🔍 Retos y soluciones
